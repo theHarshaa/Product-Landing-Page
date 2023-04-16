@@ -420,7 +420,7 @@ input{
 }
 
 input:checked~  .navbar{
-    transform: translateY(480px);
+    transform: translateY(520px);
     -webkit-transform: translateY(480px);
     -moz-transform: translateY(480px);
     -ms-transform: translateY(480px);
