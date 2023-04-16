@@ -389,9 +389,9 @@ section{
     }
 }
 
-@media (max-width:440px){
+@media (max-width:375px){
      .about {
-         margin: 0 15vh 0 15vh;
+         margin-left:10vh;
     }
 }
 
