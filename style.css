@@ -388,15 +388,6 @@ section{
         padding: 100px 7%;
     }
 }
-
-@media (max-width:375px){
-     .about {
-         margin-left:10vh;
-    }
-}
-
-
-
 header .navbar-toggler{
     display: none;
     height: min-content;
